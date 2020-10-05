@@ -8,7 +8,7 @@ Well, here you have it! My own journal of all the things I've done, from Septemb
  3° The videos of the week.
 
 I hope you understand everything, and if you have any questions, just ask me! So, here we go!
-## September 28
+#### September 28
 
 Today I learned about Todoist, an app in my browser that helps me keep more organized in all of my chores and tasks. I also got the opportunity to advance in an assignment of my audio processing class, where I learned how to make a UGen of an Amplifier.
 

@@ -70,31 +70,31 @@ With this, comes leadership, a different kind. The idea of this is that:
 
 
 Now, for the wellbeing. You need 4 things:
-# Nutrition.
+#### Nutrition.
 Create a healthy lifestyle with a monthly planned schedule for your meals! This tries to balance between your physical activity and the food that you replenish your body with.
 
-# Mental health.
+#### Mental health.
 It’s necessary to learn different tools to face changes, getting better communication, handling your stress and anxiety. The objective of this is for the nearsoftians to find a better motivation and attention to the emotional problems.
 
-# Physical health.
+#### Physical health.
 Try and get an activity that distracts you. Get it in between your work, so you can distress and improve both your mental and physical health. Look at it as a “charge your battery” implementation. 
 
-# Financial health.
+#### Financial health.
 You need to construct a solid and secure financial future. Get the basic concepts of finance, tips for savings, investment, and other subjects.
 
 
-# The art of Feedback (Anabel Montiel)
+### The art of Feedback (Anabel Montiel)
 
 The feedback is essential, you have to start doing the “culture” of constant feedback. This culture has 2 steps: 
 Understanding why feedback is very important to sustain our culture at Encora.
 Getting some ideas on how to give and receive feedback in a way that helps everyone.
 
 First, I have to know what “grow” means. As we all know, Encora is a flat structure, so the question immediately pops out of the head...how do you grow in an environment like this? It’s an internal growth. You look for:
-Multi-directional growth. 
-Keep a balance between the individual and collective growth.
-The goal: have more impact.
-You start being self-managed. 
-You start to help others.
+* Multi-directional growth. 
+* Keep a balance between the individual and collective growth.
+* The goal: have more impact.
+* You start being self-managed. 
+* You start to help others.
 
 You have to remember the phrase “I’m at my best when you are at your best” for this kind of growth. This can be interpreted as every responsibility is co-responsibility from everyone at the company, and here’s where the feedback enters. The feedback is as it follows:
 For every action, there is a perception and adjustment, which provokes a reaction. That reaction gives a new perception. It may seem like an endless loop, but it’s not! Think of it as a spiral, in which for every loop you make, you start growing more.

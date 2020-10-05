@@ -8,27 +8,27 @@ Well, here you have it! My own journal of all the things I've done, from Septemb
  3° The videos of the week.
 
 I hope you understand everything, and if you have any questions, just ask me! So, here we go!
-#### September 28
+## September 28
 
 Today I learned about Todoist, an app in my browser that helps me keep more organized in all of my chores and tasks. I also got the opportunity to advance in an assignment of my audio processing class, where I learned how to make a UGen of an Amplifier.
 
-# Getting to know the Hub (Kimberly Lantis)
+### Getting to know the Hub (Kimberly Lantis)
 
 You have to understand what the Hub is, why you need it, how to create profiles, and more!
 What is a Hub? It’s a center of activity, a focal point, if you may. In nearsoft, it’s a reliable repository of nearsoft’s internal content.
 Why do I need a Hub? I believe the answer for this is so you can look for information, and have confidence that what you’re looking for is true.
 
-# September 29
+## September 29
 
 Today I got to meet my mentor, face to face.He spoke about what these meetings are, similar to the Daily Standups (what did I do, what am I going to do, blockers). He explained to me what Front End and Back End are, that  they use HTML, JavaScript and CSS. We also had a small talk about the subjects of the Lightning Talks, he advised me to check about Software Development Models.
 
 Finally, I filled my timesheets! I hope I did it right, because I filled the ones from last week and this week.
 
-# Opportunity Seagulls (Fausto Guerrero)
+### Opportunity Seagulls (Fausto Guerrero)
 
 In a short manner of speaking, this talk will be about finding the way to “the bread”.  Sometimes, a small opened door can bring a series of steps to an even major opportunity. Always try to have a window open for these kinds of opportunities, even when at the beginning it may not look like a bright future. Of course, don’t try and develop ALL of the ideas, but keep an open mind.
 
-# Training
+### Training
 
 It’s the options that Nearsoft have. Courses, capacitations, training (of course), even books!  You can actually ask for a certification, and if the team that views the requests see it as a good idea for your growth, then you’re up for it!
 
@@ -36,12 +36,12 @@ It’s the options that Nearsoft have. Courses, capacitations, training (of cour
 
 
 
-# September 30
+## September 30
 
 Some problems with the power of my house...ugh….Well, Right now I’m doing the presentation for my Lightning Talk, let’s see how it goes! I’m planning to do an intro of the subject, and then making a stand of why Data Science is a very important subject for any company! Also, the reunions I had, LTs and Wellbeing and the art of feedback.  I had the opportunity to finish the Scientific Method lecture, it has many different tools that I could use in the future for my investigations and work!
 
 
-# LTs & Wellbeing (Mónica López)
+### LTs & Wellbeing (Mónica López)
 
 The Organization (Leadership Team) and Wellbeing. Well, what do we work with? Software product companies, in long-term relationships. She talks about the organizational structure. Well, in Encora you look at everyone as equals, everyones is on your side, not above or below you. We may be in a change between horizontal (flat) structure and a structure where you don't have superiors, but there ARE people who take some heavy decisions around the company.  
 
@@ -54,19 +54,19 @@ I do believe that both structures (vertical and horizontal) have their own advan
 
 With this, comes leadership, a different kind. The idea of this is that:
 
-1° Take ownership of a subject.
+1. Take ownership of a subject.
 
-2° Invite the community.
+2. Invite the community.
 
-3° Use organization and consultation.
+3. Use organization and consultation.
 
-4° Recognize the team’s dynamic.
+4. Recognize the team’s dynamic.
 
-5° Use the advice process tool.
+5. Use the advice process tool.
 
-6° Get things done.
+6. Get things done.
 
-7° Share results and/or operation.
+7. Share results and/or operation.
 
 
 Now, for the wellbeing. You need 4 things:

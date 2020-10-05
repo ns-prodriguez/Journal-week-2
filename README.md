@@ -1,8 +1,12 @@
 # Journal-week-2
 Well, here you have it! My own journal of all the things I've done, from September 28 to October 2. The parts on this lecture are divided by this:
+
 1° The lectures and things I did on that day. Here, we get the "introduction" of what I did, followed by the talks of that day.
+
 2° The readings of the week.
+
 3° The videos of the week.
+
 I hope you understand everything, and if you have any questions, just ask me! So, here we go!
 # September 28
 

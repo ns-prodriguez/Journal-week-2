@@ -53,6 +53,7 @@ I do believe that both structures (vertical and horizontal) have their own advan
 
 
 With this, comes leadership, a different kind. The idea of this is that:
+
 1° Take ownership of a subject.
 
 2° Invite the community.
@@ -298,9 +299,12 @@ Don’t feel bad for hitting a wall in your progress, or because a friend of you
 
 This was a very interesting video for me. I don’t think that it was aimed for developers, but for everyone who wants to know how good they are at learning things. The main objective of the talk is to check how fast you can learn, and about cognitive resources that you have.
 This cognitive resource is the main material for this. It requires Expertise to have cognitive resource management. Returning to the learning pace, you get 3 steps to try and become an expert on something. The 3 parts are:
-Can’t do (But need to)
-Can do with effort
-Mastered (automatic)
+
+1° Can’t do (But need to).
+
+2° Can do with effort.
+
+3° Mastered (automatic).
 
 We all start on point A, something that you really want to do but are not capable of doing, at least properly. Sometimes, the path for the mastery of a skill has some troubles. The most common ones are getting the tasks stuck on B, because you now know how to do the skill properly, but now they are expecting you to get fast enough. This can be a problem, if you don’t get the tasks thinner. Try and divide them, so you don’t get overwhelmed about all of the tasks that you have to do. 
 Another problem is the tasks that you half do and stay on C. Alright, you are some kind of master on the skill...but you don’t do the job properly. For this problem, the solution can be to go back on the steps, check what you got wrong, check what you still need to learn, so you eventually end up finishing properly all of the tasks you were assigned.
